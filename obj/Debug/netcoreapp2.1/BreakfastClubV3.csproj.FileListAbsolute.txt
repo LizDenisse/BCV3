@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\bin\Debug\netcoreapp2.1\BreakfastClubV3.deps.json
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\bin\Debug\netcoreapp2.1\BreakfastClubV3.runtimeconfig.json
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\bin\Debug\netcoreapp2.1\BreakfastClubV3.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\bin\Debug\netcoreapp2.1\BreakfastClubV3.dll
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\bin\Debug\netcoreapp2.1\BreakfastClubV3.pdb
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.dll
+C:\Users\Eliza\source\repos\BreakfastClubV3\BreakfastClubV3\obj\Debug\netcoreapp2.1\BreakfastClubV3.pdb
